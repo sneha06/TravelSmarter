@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">"Travel smarter "</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="wants_to_visit">Wants to visit</string>
+
+    <string-array name="choice">
+        <item>choose places</item>
+        <item>Historical Monuments</item>
+        <item>Restaurants</item>
+        <item>Hotel</item>
+    </string-array>
+
+    <string name="title_activity_map">MapActivity</string>
+
+</resources>
